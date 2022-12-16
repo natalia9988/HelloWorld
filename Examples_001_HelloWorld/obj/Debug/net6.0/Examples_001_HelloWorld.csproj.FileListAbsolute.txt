@@ -1,0 +1,15 @@
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\bin\Debug\net6.0\Examples_001_HelloWorld.exe
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\bin\Debug\net6.0\Examples_001_HelloWorld.deps.json
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\bin\Debug\net6.0\Examples_001_HelloWorld.runtimeconfig.json
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\bin\Debug\net6.0\Examples_001_HelloWorld.dll
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\bin\Debug\net6.0\Examples_001_HelloWorld.pdb
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\obj\Debug\net6.0\Examples_001_HelloWorld.csproj.AssemblyReference.cache
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\obj\Debug\net6.0\Examples_001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\obj\Debug\net6.0\Examples_001_HelloWorld.AssemblyInfoInputs.cache
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\obj\Debug\net6.0\Examples_001_HelloWorld.AssemblyInfo.cs
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\obj\Debug\net6.0\Examples_001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\obj\Debug\net6.0\Examples_001_HelloWorld.dll
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\obj\Debug\net6.0\refint\Examples_001_HelloWorld.dll
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\obj\Debug\net6.0\Examples_001_HelloWorld.pdb
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\obj\Debug\net6.0\Examples_001_HelloWorld.genruntimeconfig.cache
+C:\Инженер по тестированию\Examples\Examples_001_HelloWorld\obj\Debug\net6.0\ref\Examples_001_HelloWorld.dll
